@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micro | Lindsey Pham</title>
+    <link>https://lndzphm.netlify.app/tag/micro/</link>
+      <atom:link href="https://lndzphm.netlify.app/tag/micro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Micro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lndzphm.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Micro</title>
+      <link>https://lndzphm.netlify.app/tag/micro/</link>
+    </image>
+    
+    <item>
+      <title>Firm Size - Wage Effect</title>
+      <link>https://lndzphm.netlify.app/publication/example-2/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lndzphm.netlify.app/publication/example-2/</guid>
+      <description>&lt;p&gt;The impact of firm size on wages sheds light on workers&amp;rsquo; earning potential, labor market competition, as well as the dynamics of economic inequality and income distribution across industries within the US economy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

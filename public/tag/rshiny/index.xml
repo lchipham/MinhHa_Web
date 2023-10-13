@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RShiny | Linh-Chi Pham</title>
+    <link>https://lchipham.netlify.app/tag/rshiny/</link>
+      <atom:link href="https://lchipham.netlify.app/tag/rshiny/index.xml" rel="self" type="application/rss+xml" />
+    <description>RShiny</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lchipham.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>RShiny</title>
+      <link>https://lchipham.netlify.app/tag/rshiny/</link>
+    </image>
+    
+    <item>
+      <title>Default Risk Calculator - Home Equity Loan</title>
+      <link>https://lchipham.netlify.app/project/project-2/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lchipham.netlify.app/project/project-2/</guid>
+      <description>&lt;p&gt;This web app functions like a calculator, taking new customers&amp;rsquo; info (variables/parameters of final Machine Learning model: DEBTINC, DELINQ, DEROG, CLAGE, LOAN, NINQ, CLNO) as input and outputting said customer&amp;rsquo;s mortgage default probability.&lt;/p&gt;
+&lt;p&gt;Based on the quantile in which this probability is, as well as the (adjustable) loan acceptance rate of the bank, the app ultimately outputs the bank&amp;rsquo;s decision on whether to lend to this new customer. If the customer&amp;rsquo;s default probability falls in a higher percentile than the acceptance rate, they are not qualified for loan. On the other hand, if the default probability lies in the acceptable range, the customer is qualified for loan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inflation Tweets &amp; Market Sentiments</title>
+      <link>https://lchipham.netlify.app/project/project-4/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lchipham.netlify.app/project/project-4/</guid>
+      <description>&lt;p&gt;Through exploration of Tweets from the general public and prominent news articles (WSJ, Financial Times, NY Times. etc), this project aims to gain insights on market sentiments during the current high inflationary period in the US. &amp;ldquo;Sentiments&amp;rdquo; are shaped and defined from discovery of term/word frequency, most mentioned keywords/hashtags, word networks, sentiment analysis and topic modeling. Correlations between US treasury yields data and usage frequency of keywords like &amp;ldquo;inflation&amp;rdquo; and &amp;ldquo;recession&amp;rdquo; are also found and validated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dash | Linh-Chi Pham</title>
+    <link>https://lchipham.netlify.app/tag/dash/</link>
+      <atom:link href="https://lchipham.netlify.app/tag/dash/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dash</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lchipham.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dash</title>
+      <link>https://lchipham.netlify.app/tag/dash/</link>
+    </image>
+    
+    <item>
+      <title>Excess Bond Returns Forecasts &amp; Valuation</title>
+      <link>https://lchipham.netlify.app/project/project-1/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lchipham.netlify.app/project/project-1/</guid>
+      <description>&lt;p&gt;Excess bond returns is a proxy for realized risk premium of a long-term bond. Forecasting excess bond returns is crucial for optimizing strategic asset allocation decisions,
+managing risks associated with bond holdings, developing fixed&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emerging Markets | Linh-Chi Pham</title>
+    <link>https://lchipham.netlify.app/tag/emerging-markets/</link>
+      <atom:link href="https://lchipham.netlify.app/tag/emerging-markets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emerging Markets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lchipham.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Emerging Markets</title>
+      <link>https://lchipham.netlify.app/tag/emerging-markets/</link>
+    </image>
+    
+    <item>
+      <title>Emerging Markets Inflation Outlook and Regime Shifts in Global Market Sentiment</title>
+      <link>https://lchipham.netlify.app/publication/example-1/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lchipham.netlify.app/publication/example-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

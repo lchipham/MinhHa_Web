@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Engineering | Linh-Chi Pham</title>
+    <link>https://lchipham.netlify.app/tag/feature-engineering/</link>
+      <atom:link href="https://lchipham.netlify.app/tag/feature-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lchipham.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature Engineering</title>
+      <link>https://lchipham.netlify.app/tag/feature-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Validating The Association Between The Tech Workplace &amp; Mental Illness</title>
+      <link>https://lchipham.netlify.app/publication/example/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://lchipham.netlify.app/publication/example/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background &amp;amp; Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Amazon Web Services, the “on-call” rotational procedure expects software developers to get paged and be available any time during the day, even 2am, to resolve troubled tickets in only 15 minutes. As reported by employees on Blind, taking on this “on-call” responsibility is not compensated by extra pay, which further adds on to the existing stress and exhaustion. Stories like these have led many to naturally associate working in Tech with higher chances of developing mental illness.&lt;/p&gt;
+&lt;p&gt;On the other hand, there are well-known perks to working in Tech. According to mthree, “Most (Tech) companies won’t usually keep you tied to a strict 9-to-6 schedule like most other employees. Tech industry has a stimulating culture that isn’t just based on work, with great opportunities to show off your skills and socialize with like-minded people.”&lt;/p&gt;
+&lt;p&gt;Recognizing these differentiating opinions, we are interested in assessing the connection (if any) between Tech workplace and likelihood of developing mental illness. Through our final machine learning model, we aim to use statistically backed-up results to answer the following questions:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; How prevalent are mental health disorders in the Tech workplace?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Does working in the Tech industry increase one’s likelihood of developing mental health illness?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Using survey data, can we accurately predict if one has a current diagnosis for a mental illness?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

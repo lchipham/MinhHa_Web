@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Lindsey Pham</title>
+    <link>https://lndzphm.netlify.app/publication/</link>
+      <atom:link href="https://lndzphm.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lndzphm.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://lndzphm.netlify.app/publication/</link>
+    </image>
+    
+    <item>
+      <title>Emerging Markets Inflation Outlook and Regime Shifts in Global Market Sentiment</title>
+      <link>https://lndzphm.netlify.app/publication/example-1/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lndzphm.netlify.app/publication/example-1/</guid>
+      <description>&lt;p&gt;Monitoring the inflation outlook in emerging markets during periods of low and high volatility is crucial for maintaining economic stability, enabling effective monetary policy, currency stability, mitigating adverse socioeconomic impacts, and bolstering investor confidence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Firm Size - Wage Effect</title>
+      <link>https://lndzphm.netlify.app/publication/example-2/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lndzphm.netlify.app/publication/example-2/</guid>
+      <description>&lt;p&gt;The impact of firm size on wages sheds light on workers&amp;rsquo; earning potential, labor market competition, as well as the dynamics of economic inequality and income distribution across industries within the US economy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

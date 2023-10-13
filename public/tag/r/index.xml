@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Lindsey Pham</title>
+    <link>https://lndzphm.netlify.app/tag/r/</link>
+      <atom:link href="https://lndzphm.netlify.app/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lndzphm.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>R</title>
+      <link>https://lndzphm.netlify.app/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Home Equity Loan Default Risk Calculator</title>
+      <link>https://lndzphm.netlify.app/project/project-2/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lndzphm.netlify.app/project/project-2/</guid>
+      <description>&lt;p&gt;This web app functions like a calculator, taking new customers&amp;rsquo; info (variables/parameters of final Machine Learning model: DEBTINC, DELINQ, DEROG, CLAGE, LOAN, NINQ, CLNO) as input and outputting said customer&amp;rsquo;s mortgage default probability.&lt;/p&gt;
+&lt;p&gt;Based on the quantile in which this probability is, as well as the (adjustable) loan acceptance rate of the bank, the app  outputs bank&amp;rsquo;s decision on whether to lend to this new customer. If the customer&amp;rsquo;s default probability falls in a higher percentile than the acceptance rate, they are not qualified for loan.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

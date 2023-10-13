@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macro | Lindsey Pham</title>
+    <link>https://lndzphm.netlify.app/tag/macro/</link>
+      <atom:link href="https://lndzphm.netlify.app/tag/macro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Macro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lndzphm.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Macro</title>
+      <link>https://lndzphm.netlify.app/tag/macro/</link>
+    </image>
+    
+    <item>
+      <title>Emerging Markets Inflation Outlook and Regime Shifts in Global Market Sentiment</title>
+      <link>https://lndzphm.netlify.app/publication/example-1/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lndzphm.netlify.app/publication/example-1/</guid>
+      <description>&lt;p&gt;Monitoring the inflation outlook in emerging markets during periods of low and high volatility is crucial for maintaining economic stability, enabling effective monetary policy, currency stability, mitigating adverse socioeconomic impacts, and bolstering investor confidence.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
