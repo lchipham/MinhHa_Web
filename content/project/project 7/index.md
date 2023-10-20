@@ -13,7 +13,7 @@ links:
 - icon: image
   icon_pack: fa
   name: Gallery
-  url: 
+  url: https://drive.google.com/drive/folders/1vNSzhyI0lyIsGnyk6UUdlHim9p5bgtyg?usp=share_link
 
 summary: Student-led project focused on promoting gender equality and inclusivity
 
@@ -25,7 +25,4 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-- Developed a social media campaign on gender stereotypes & sexual harassment. 
-- Authored and published 2 articles per week, bringing multifaceted perspectives to the club’s 11k-follower fanpage. 
-- Organized a self-defense workshop for 500+ high school and university students in Hanoi, raising awareness about safety concerns and preventions.
-
+"GIANT is the first project where I worked as Project Manager. I am leading a team of 6 members, managing and responsible for all project activities, plan, as well as project implementation progress. Although there were many difficulties and challenges that I encountered, they became valuable lessons for me to improve my leadership, management, planning and organization skills. During my time at GIANT, I successfully launched a campaign to raise awareness about gender bias on the FB platform and created content for a Self-Defense Workshop, engaging more than 500 secondary and high school students in Hanoi.

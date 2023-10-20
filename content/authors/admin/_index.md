@@ -1,5 +1,5 @@
 ---
-bio: I am a high school senior passionate about traditional arts, modern data analytics, and content development.
+bio: I am a high school senior passionate about the intersection between traditional arts, business management, and data analytics.
 
 education:
   courses:
@@ -13,23 +13,18 @@ email: "minhha2006@gmail.com"
 highlight_name: true
 interests:
 - Arts & Paintings
-- Piano, Guitar & Zither
+- Vietnamese {{< staticref "https://youtu.be/cE-p-45JBbk?si=X0qBHi9ieZ1hPD9_" "newtab" >}}Zither{{< /staticref >}}
+- Piano, Guitar
 - Swimming
 
-#organizations:
-#- name: Federal Reserve Bank of Boston
-#  url: https://www.bostonfed.org
 role: Hanoi, VN
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:minhha2006@gmail.com
-#- icon: github
-#  icon_pack: fab
-# link: https://github.com/lchipham
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/linhchipham269/
+  link: https://www.linkedin.com/in/minh-hà-9b082b284/
 - icon: phone
   icon_pack: fas
   link: tel:+84931183366

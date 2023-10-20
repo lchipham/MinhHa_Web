@@ -23,10 +23,10 @@ links:
   name: Publication
   url: https://irjems.org/irjems-v2i3p149.html?fbclid=IwAR2uInXLtVojZOsy2H8pFqaMdKfLeTB0k1qa5BKwEzB7nT-mHkIe1FNX0ro
 
-summary: 
+summary: Co-authored study with Dr. Hoang Thanh Tung, Associate Professor at University of Labor & Social Affairs
 
 tags: 
-- Arts
+- Research
 
 title: Consumption Trends of Truc Chi Paintings Among Hanoi Residents
 

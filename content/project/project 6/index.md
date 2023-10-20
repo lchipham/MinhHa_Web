@@ -13,19 +13,18 @@ links:
 - icon: image
   icon_pack: fa
   name: Gallery
-  url: 
+  url: https://drive.google.com/drive/folders/1nuuM2xJBpOe1glmFM_Jnwhc89vaeDh2v?usp=share_link
 
 summary: Official media club of Hanoi-Amsterdam High School
 
 tags:
 - School
-title: Director of Content - Official News & Media of HN-Ams
+title: Director of Content - Media Club of HN-Ams
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-- Led the school's media initiatives, strategically planning and executing its annual activities.
-- Designed a “Truth or Dare” card game that reinforces students' knowledge about HN-Amsterdam High School, generated 5 million VND in proceeds to support 50+ disabled children at Sao Mai Center.
-- In charge of content development and sales of "Healing Booklet" & Scented Candles, raising 5 million VND in profit to support 20 orphan children in Hoa Binh Village, Hanoi.
+This is the Media Club of Hanoi - Amsterdam High School. As a director of content, I provided overall leadership to the school's media initiatives, strategically planning and executing its annual programs, contents and calendar of activities. I also supervised 10-members working under the Content department of Ams Media.  
 
+As the Director of Content, I have create content about HN-Amsterdam School on the school's Facebook and TikTok platforms, attracting a lot of love and interaction from the students. Additionally, I am the one directly responsible for coming up with ideas for club events such as designing a fundraising card game and selling "healing" kits, which include a booklet and a candle-making kit, as a way to help students relax and relieve stress. This has been a very special experience for me because I have been able to unleash my creativity in various aspects.

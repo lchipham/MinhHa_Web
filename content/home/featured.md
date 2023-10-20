@@ -8,9 +8,9 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 30
 
-title: Research
+title: Experience
 subtitle: ''
 
 content:
@@ -19,8 +19,10 @@ content:
   # Filter button
   filter_default: 0
   filter_button:
-    - name: Arts
-      tag: Arts
+    - name: Research
+      tag: Research
+    - name: Internship
+      tag: Internship
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Page order: descending (desc) or ascending (asc) date.

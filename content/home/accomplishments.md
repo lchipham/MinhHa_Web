@@ -6,50 +6,87 @@ widget: accomplishments
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
+
 # Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://drive.google.com/file/d/1cBpGtOiANlwknFWj-790zKqMbCM4FTe0/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2023-01-25'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: iCAN
+    organization_url: https://www.tisias.org/ican-2021.html
+    title: Gold Medal - The International Invention Innovation Competition in Canada
     url: ''
-  - certificate_url: https://www.edx.org
+    tag: Innovation
+    
+  - certificate_url: https://drive.google.com/file/d/1CVYCByxMZecCLNPqrB27tcr6Djh6cfha/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2019-01-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: World Scholar’s Cup (WSC)
+    organization_url: https://www.scholarscup.org
+    title: Gold Medal - History Challenge, WSC Global Round in Manila
+    url: ''
+    
+  - certificate_url: https://drive.google.com/file/d/1CVYCByxMZecCLNPqrB27tcr6Djh6cfha/view?usp=sharing
+    date_end: ''
+    date_start: '2019-01-01'
+    description: ''
+    organization: World Scholar’s Cup (WSC)
+    organization_url: https://www.scholarscup.org
+    title: Silver Medal - Writing Champions and Team Challenge, WSC Global Round in Manila
+    url: ''
+  
+  - certificate_url: https://drive.google.com/file/d/1CVYCByxMZecCLNPqrB27tcr6Djh6cfha/view?usp=sharing
+    date_end: ''
+    date_start: '2019-01-01'
+    description: ''
+    organization: World Scholar’s Cup (WSC)
+    organization_url: https://www.scholarscup.org
+    title: Guest of Honor - WSC Tournament at Yale University
     url: ''
 
+  - certificate_url: https://drive.google.com/file/d/1S10XGDNPall_miycZJlmYnIL3mOS2Tph/view?usp=sharing
+    date_end: '2020-01-01'
+    date_start: '2021-01-01'
+    description: ''
+    organization: Hanoi Department of Education and Training
+    organization_url: https://hanoi.edu.vn/homegdhn2
+    title: 2nd Prize - English Municipal Academic Competition
+    url: 
+    
+  - certificate_url: https://drive.google.com/file/d/1Ghy6ZG47u6SpB1_YlWuG5hviuIsFlRZ2/view?usp=sharing
+    date_end: '2020-01-01'
+    date_start: '2021-01-01'
+    description: ''
+    organization: Hanoi Department of Education and Training
+    organization_url: https://hanoi.edu.vn/homegdhn2
+    title: 2nd Prize - English District Academic Competition
+    url: ''
+    
+  - certificate_url: https://drive.google.com/file/d/1pxTrlZCbrO8JvqDQVyzlk2ua2Utvm25b/view?usp=sharing
+    date_end: '2020-01-01'
+    date_start: '2021-01-01'
+    description: ''
+    organization: Cau Giay Junior High School
+    organization_url: https://truongthptcaugiay.edu.vn
+    title: 9th Grade First Honors Student
+    url: ''
+      
 design:
-  columns: '2'
+  columns: '1'
+  view: 2
 ---
