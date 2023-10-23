@@ -2,7 +2,7 @@
 date: "2022-03-18T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
   
 links:
@@ -13,7 +13,7 @@ links:
 - icon: image
   icon_pack: fa
   name: Gallery
-  url: 
+  url: https://www.behance.net/gallery/182856921/Ngay-Hoi-Anh-Tai-%28NHAT%29-Talent-Festival
 
 summary: HN-Amsterdam student council, made up of rigorously selected students, represent student body in communicating with school management, and is the sole organizer of Ngay Hoi Anh Tai (NHAT)
 

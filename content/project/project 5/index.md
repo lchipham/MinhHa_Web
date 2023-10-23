@@ -2,7 +2,7 @@
 date: "2022-03-18T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
   
 links:
@@ -13,7 +13,7 @@ links:
 - icon: image
   icon_pack: fa
   name: Gallery
-  url: https://drive.google.com/drive/folders/1Evx_Bt_LuOro-l4bg9WUuc8uz6d_nzJp?usp=share_link
+  url: https://www.behance.net/gallery/182856921/Ngay-Hoi-Anh-Tai-%28NHAT%29-Talent-Festival
 
 summary: The flagship & largest-scale talent festival of Hanoi-Amsterdam High School
 

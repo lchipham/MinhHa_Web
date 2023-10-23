@@ -13,7 +13,7 @@ links:
 - icon: image
   icon_pack: fa
   name: Gallery
-  url: https://drive.google.com/drive/folders/1vNSzhyI0lyIsGnyk6UUdlHim9p5bgtyg?usp=share_link
+  url: https://www.behance.net/gallery/182857593/GIANT
 
 summary: Student-led project focused on promoting gender equality and inclusivity
 
