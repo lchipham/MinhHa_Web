@@ -1,31 +1,31 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
-headless: false
+headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 0
+weight: 50
 
-title: Experience
+title: Awards
 subtitle: ''
 
 content:
+  page_type: publication
   # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: Research, Internship
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
+  # Filter button
+  filter_default: 1
+  filter_button:
+    - name: Innovation
+      tag: Innovation
+    - name: Debate
+      tag: Debate
+    - name: Academic
+      tag: Academic
         
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
@@ -35,10 +35,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  view: 5
+  columns: '1'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
