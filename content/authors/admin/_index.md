@@ -13,7 +13,7 @@ email: "minhha2006@gmail.com"
 highlight_name: true
 interests:
 - Arts & Paintings
-- Vietnamese {{< staticref "https://youtu.be/cE-p-45JBbk?si=X0qBHi9ieZ1hPD9_" "newtab" >}}Zither{{< /staticref >}}
+- Vietnamese Zither
 - Piano, Guitar
 - Swimming
 
@@ -37,4 +37,4 @@ Welcome to my personal creative space, where I record my passion projects and hi
 
 {{< icon name="code" pack="fas" >}}  Intended college majors: Economics, Data Science
 
-{{< icon name="download" pack="fas" >}}  Download my {{< staticref "https://drive.google.com/file/d/1h9HcpL2tVXcS9U8TZ-mzWd6EpDFnuV5i/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  Download my {{< staticref "https://www.canva.com/design/DAFyLccJNG8/ePMxWbFfisT_hA_Ghdl0pg/view?utm_content=DAFyLccJNG8&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" "newtab" >}}resumé{{< /staticref >}}.
