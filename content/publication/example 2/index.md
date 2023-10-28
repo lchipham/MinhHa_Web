@@ -24,8 +24,8 @@ links:
   url: https://vide.vn
 - icon: file-pdf
   icon_pack: fas
-  name: Intern report
-  url: 
+  name: Intern Report
+  url: https://drive.google.com/file/d/1BLrHyNCkjPSaqfQHrTprjzDApTV8NK3R/view?usp=sharing
 
 summary: VIDE, the Vietnam Institute for Digital Economic Development, is dedicated to fulfilling the digital transformation needs of industries, local communities, and businesses.
 
