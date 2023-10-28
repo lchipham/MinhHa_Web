@@ -19,7 +19,7 @@ summary: Student-led project focused on promoting gender equality and inclusivit
 
 tags:
 - Community
-title: Director of Content - Gender In A Nutshell (GIANT)
+title: Project Manager - Gender In A Nutshell (GIANT)
 url_code: ""
 url_pdf: ""
 url_slides: ""
