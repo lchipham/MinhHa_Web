@@ -26,7 +26,7 @@ url_slides: ""
 url_video: ""
 ---
 As a Senior Executive Committee Member of the Student Council, I've had the privilege of representing the student body and being their voice in various important forums. This role has allowed me to establish a bridge of communication and understanding between the students and the school's management, the dedicated Principal, and the dynamic Student Council Executive Board. Through this position, I've been able to advocate for our collective concerns and ideas, contributing to the ongoing efforts to improve the quality of school services and the overall educational experience. 
-
+![screen reader text](hanh.jpg "")
 One of the most rewarding aspects of my role has been working closely with our diligent teachers and administrators on the Executive Student Council. Together, we've been responsible for organizing and executing a variety of annual events that bring together our diverse student community. These events, tailored for over 3000 students across all grade levels, serve not only as a source of entertainment and camaraderie but also as opportunities for personal growth and development.
 
 In addition to my responsibilities within the school's walls, I've also had the privilege of participating in Youth Volunteer Activities. One significant undertaking has been our involvement in overseeing the testing center operations during entrance exam days. This experience has been both humbling and rewarding, as we contribute to the smooth and fair conduct of exams, ensuring that every student's aspirations are supported. 

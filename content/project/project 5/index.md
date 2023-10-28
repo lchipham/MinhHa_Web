@@ -34,7 +34,7 @@ Sports Day was another highlight of NHAT, a day filled with athletic fervor and 
 Crowd Dance, a flashmob extravaganza, was yet another feat that I spearheaded. We trained and coordinated over 300 high school freshmen for mesmerizing performances. It was an opportunity to unite students in the joy of dance and creative expression.
 ![screen reader text](nhat_gen1.jpg "")
 The Grand Finale was the grandest of them all, where we showcased the incredible talents within our school community. The event featured Talent Shows and Cultural Camp Contests, bringing together 13 specialized classes and attracting over 5000 annual attendees. Our efforts were not in vain, as we sold over 1000 tickets to Hanoi students and generated a remarkable revenue of 120 million VND.
-![screen reader text](nhat_finale.jpg "")
+![screen reader text](nhat_cover.jpg "")
 In the role of Director of Content for NHAT, I found inspiration in the remarkable unity, creativity, and enthusiasm of the Hanoi-Amsterdam High School community. It was an honor to be part of an event that not only celebrated talents but also made a tangible impact on the lives of others, reflecting the values that our school holds dear.
 
 We had so much fun, on top of all!!!

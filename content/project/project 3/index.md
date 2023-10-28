@@ -39,7 +39,7 @@ This is one of the activities in a volunteer event organized by the Givealite Cl
 In addition to distributing gifts, we also organized recreational activities for the students in Hang Tau village. This was an opportunity for me to interact with highland children, broaden my horizons, and build new dreams. This volunteer trip has taught me valuable lessons. It has made me understand the importance of sharing and helping those in need. Every gift and every one of our hearts can change someone's life, and that is truly precious.
 
 3. Givelite - Meal Distribution
-![screen reader text](givealite_pcom1.jpg "")
+![screen reader text](givealite_cover.png "")
 Every Sunday, the Givealite Club collaborates with “The People I Look After” network to embark on an extraordinary journey to the National Hematology and Blood Transfusion Institute. Our mission is to cook and distribute 150 free meals, including hot soup, to the pediatric patients and elderly patients here.
 ![screen reader text](givealite_pcom.jpg "")
 As soon as I step into the hospital premises, I am immediately impressed by the resilience displayed by each patient in their battle against illness. The young children who are just beginning their lives but are burdened with serious illnesses and the elderly individuals who are nearing the end of their journey all strive to endure their illnesses. 

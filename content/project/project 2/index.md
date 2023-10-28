@@ -28,7 +28,7 @@ url_video: ""
 
 “Soundsort” is a non-profit project founded by a group of students from high schools in Hanoi city with the main goal of providing a multi-dimensional view for music content developers through collecting data from people who listen to and use popular music streaming apps today. I am responsible for developing content and overseeing 4 sub-committees, including 12 members. We analyze in detail the strengths and weaknesses of each online music streaming application. At the same time, we organized small workshops both online and offline about Data Analytic.
 
-![screen reader text](soundsort_workshop.jpg "")
+![screen reader text](soundsort_cover.jpg "")
 Recently, I had the opportunity to organize a workshop on "Data Analytics: Prospects, Trends, and Applications" as part of the "Soundsort" project. This is a non-profit project organized by a group of high school students from Hanoi, and its main goal is to provide a multidimensional perspective for music content developers by collecting data from listeners and using popular music streaming applications. The event attracted over 50 students from different high schools, creating a space for connecting generations of tech-savvy and data enthusiasts.
 
 ![screen reader text](soundsort_speaker.jpg "")
