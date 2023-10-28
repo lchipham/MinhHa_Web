@@ -25,14 +25,14 @@ links:
 - icon: award
   icon_pack: fa
   name: Certificate
-  url: https://drive.google.com/file/d/1CVYCByxMZecCLNPqrB27tcr6Djh6cfha/view?usp=sharing
+  url: https://drive.google.com/file/d/1KBrIh6yTTX2eEp7pRpUeyl8i21jtMQCj/view?usp=sharing
 
 summary: The World Scholar’s Cup (WSC) is an annual international academic program. More than 15,000 students from over 65 countries participate every year.
 
 tags: 
 - Debate
 
-title: Gold Medal - History Challenge @ WSC Global Round in Manila. Guest of Honor @ WSC Tournament at Yale University
+title: Silver Medal - Writing Champions and Team Challenge @ WSC Global Round in Manila
 
 url_code: ""
 url_dataset: ""

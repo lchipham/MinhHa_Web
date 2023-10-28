@@ -26,12 +26,12 @@ links:
   name: Certificate
   url: https://drive.google.com/file/d/1pxTrlZCbrO8JvqDQVyzlk2ua2Utvm25b/view?usp=sharing
 
-summary: First Honors awarded to top 9th grade students who demonstrated outstanding academic excellence and extracurricular involvement.
+summary: FAwarded to top 9th grade students who demonstrated outstanding academic excellence and extracurricular involvement.
 
 tags: 
 - Academic
 
-title: 9th Grade First Honors Student
+title: 9th Grade Valedictorian
 
 url_code: ""
 url_dataset: ""
