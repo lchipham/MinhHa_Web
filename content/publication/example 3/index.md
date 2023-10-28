@@ -24,7 +24,7 @@ links:
 - icon: award
   icon_pack: fa
   name: Certificate
-  url: https://drive.google.com/file/d/1CVYCByxMZecCLNPqrB27tcr6Djh6cfha/view?usp=sharing
+  url: https://drive.google.com/file/d/1tHJBRO0rw9RJclzewepb16eNRCuSNfnY/view?usp=sharing
 
 summary: International Invention Innovation Competition in Canada, iCAN aims to build a special platform to unite creativity and innovation initiatives of Canadian inventors with the rest of the world.  
 
