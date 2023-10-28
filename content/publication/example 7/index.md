@@ -17,12 +17,12 @@ image:
   preview_only: false
 
 links:
-- icon: facebook
-  icon_pack: fab
+- icon: landmark
+  icon_pack: fa
   name: Cau Giay Junior High School
   url: https://truongthptcaugiay.edu.vn
-- icon: file-pdf
-  icon_pack: fas
+- icon: award
+  icon_pack: fa
   name: Certificate
   url: https://drive.google.com/file/d/1pxTrlZCbrO8JvqDQVyzlk2ua2Utvm25b/view?usp=sharing
 

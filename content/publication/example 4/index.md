@@ -18,12 +18,12 @@ image:
   preview_only: false
 
 links:
-- icon: facebook
-  icon_pack: fab
+- icon: landmark
+  icon_pack: fa
   name: WSC
   url: https://www.scholarscup.org
-- icon: file-pdf
-  icon_pack: fas
+- icon: award
+  icon_pack: fa
   name: Certificate
   url: https://drive.google.com/file/d/1CVYCByxMZecCLNPqrB27tcr6Djh6cfha/view?usp=sharing
 

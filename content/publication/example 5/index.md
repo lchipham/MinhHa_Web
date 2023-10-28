@@ -17,12 +17,12 @@ image:
   preview_only: false
 
 links:
-- icon: facebook
-  icon_pack: fab
+- icon: landmark
+  icon_pack: fa
   name: Hanoi Department of Education and Training
   url: https://hanoi.edu.vn/homegdhn2
-- icon: file-pdf
-  icon_pack: fas
+- icon: award
+  icon_pack: fa
   name: Certificate
   url: https://drive.google.com/file/d/1S10XGDNPall_miycZJlmYnIL3mOS2Tph/view?usp=sharing
 
