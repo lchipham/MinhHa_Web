@@ -15,7 +15,7 @@ links:
   name: Gallery
   url: https://www.behance.net/gallery/182856425/Givealite
 
-summary: Student-led volunteer club focusing on ethnic minorities
+summary: Givealite is a student-led volunteer club with a focus on supporting ethnic minorities. We engaged in impactful projects such as reconstructing Pha Đén Primary School, organizing educational activities, and supporting underprivileged families in Hang Tau village. Our involvement in meal distribution at the National Hematology and Blood Transfusion Institute provided emotional support to patients. These experiences deepened my understanding of gratitude, resilience, and the importance of helping others.These experiences have not only broadened my horizons but also instilled in me a deep sense of gratitude, resilience, and the importance of helping those in need.
 
 tags:
 - Leadership

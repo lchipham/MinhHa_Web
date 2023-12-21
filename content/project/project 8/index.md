@@ -15,7 +15,7 @@ links:
   name: Gallery
   url: https://www.behance.net/gallery/182857263/Ams-Media
 
-summary: Student-led project focused on promoting high school students’ mental health and well-being
+summary: Socialet is a student-led project focused on promoting high school students’ mental health and well-being. In Season 4 of Socialet, I served as Project Manager, leading a team in executing impactful mental health projects, including a successful social media campaign and fundraising initiative for autistic children. Transitioning to Senior Project Advisor in Season 5, I mentored and advised over 10 core team members, ensuring the continued success of Socialet's initiatives. This journey has strengthened my belief in the positive change achievable when students unite for a common goal, emphasizing the collective power to create a happier and healthier world.
 
 tags:
 - Community

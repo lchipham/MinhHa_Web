@@ -15,7 +15,7 @@ links:
   name: Website
   url: https://vn.usembassy.gov/hanoi/
 
-summary: The U.S. Department of State offers many programs which are augmented by local opportunities in countries around that world, allowing non-U.S. citizens to explore U.S. culture.
+summary: The U.S. Department of State offers many programs which are augmented by local opportunities in countries around that world, allowing non-U.S. citizens to explore U.S. culture. Through collaborative efforts with the Federal Women Program, I successfully raised $4,000 to provide essential resources such as food and school supplies for over 2,000 underprivileged children in Lao Cai and Hoa Binh Provinces. This experience allowed me to contribute meaningfully to the well-being of disadvantaged communities and reinforced my commitment to making a positive impact through volunteerism.
 
 tags:
 - Community
@@ -25,5 +25,4 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-- Supported fundraising initiatives with the Federal Women Program of the U.S. Embassy Hanoi
-- Raised $4000 to provide food, school supplies for 2000+ underprivileged children in Lao Cai,  Hoa Binh Provinces.
+Through collaborative efforts with the Federal Women Program, I successfully raised $4,000 to provide essential resources such as food and school supplies for over 2,000 underprivileged children in Lao Cai and Hoa Binh Provinces. This experience allowed me to contribute meaningfully to the well-being of disadvantaged communities and reinforced my commitment to making a positive impact through volunteerism.

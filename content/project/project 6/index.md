@@ -15,7 +15,7 @@ links:
   name: Gallery
   url: https://www.behance.net/gallery/182857263/Ams-Media
 
-summary: Official media club of Hanoi-Amsterdam High School
+summary: As a director of content of the official media club of Hanoi-Amsterdam High School, I provided overall leadership to the school's media initiatives, strategically planning and executing its annual programs, contents and calendar of activities. I also supervised 10-members working under the Content department of Ams Media.  
 
 tags:
 - School
@@ -25,7 +25,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-This is the Media Club of Hanoi - Amsterdam High School. As a director of content, I provided overall leadership to the school's media initiatives, strategically planning and executing its annual programs, contents and calendar of activities. I also supervised 10-members working under the Content department of Ams Media.  
+As a director of content, I provided overall leadership to the school's media initiatives, strategically planning and executing its annual programs, contents and calendar of activities. I also supervised 10-members working under the Content department of Ams Media.  
 ![screen reader text](am_cover.jpg "")
 As the Director of Content, I have create content about HN-Amsterdam School on the school's Facebook and TikTok platforms, attracting a lot of love and interaction from the students. 
 ![screen reader text](am.jpg "")

@@ -15,7 +15,7 @@ links:
   name: Gallery
   url: https://www.behance.net/gallery/182856921/Ngay-Hoi-Anh-Tai-%28NHAT%29-Talent-Festival
 
-summary: HN-Amsterdam student council, made up of rigorously selected students, represent student body in communicating with school management, and is the sole organizer of Ngay Hoi Anh Tai (NHAT)
+summary: HN-Amsterdam student council, made up of rigorously selected students, represent student body in communicating with school management, and is the sole organizer of Ngay Hoi Anh Tai (NHAT). As a Senior Executive Committee Member of the HN-Amsterdam student council, I've been privileged to represent and voice student concerns in crucial forums, fostering communication between students, the school management, and the Student Council Executive Board. This role has enabled me to advocate for collective concerns, actively contributing to ongoing efforts to enhance school services and the overall educational experience.
 
 tags:
 - School

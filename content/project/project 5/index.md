@@ -15,7 +15,7 @@ links:
   name: Gallery
   url: https://www.behance.net/gallery/182856921/Ngay-Hoi-Anh-Tai-%28NHAT%29-Talent-Festival
 
-summary: The flagship & largest-scale talent festival of Hanoi-Amsterdam High School
+summary: Serving as the Director of Content for Ngay Hoi Anh Tai (NHAT), Hanoi-Amsterdam High School's flagship and largest-scale talent festival, has been an exhilarating journey filled with creativity and leadership. In this role, I had the unique privilege of orchestrating and managing every aspect of this monumental event, from initial content planning to the grand execution. Overseeing a dedicated team of 90+ individuals, we collectively transformed ideas into a spectacular reality.
 
 tags:
 - School

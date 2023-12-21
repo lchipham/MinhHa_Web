@@ -15,7 +15,7 @@ links:
   name: Gallery
   url: https://www.behance.net/gallery/182854413/Soundsort
 
-summary: Student-led project enhancing online music development through user data analysis
+summary: “Soundsort” is a non-profit project founded by a group of students from high schools in Hanoi city with the main goal of providing a multi-dimensional view for music content developers through collecting data from people who listen to and use popular music streaming apps today. I am responsible for developing content and overseeing 4 sub-committees, including 12 members. We analyze in detail the strengths and weaknesses of each online music streaming application. At the same time, we organized small workshops both online and offline about Data Analytic.
 
 tags:
 - Leadership

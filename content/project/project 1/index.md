@@ -15,7 +15,7 @@ links:
   name: Gallery
   url: https://www.behance.net/gallery/182855861/Viet-Art-Legacy
 
-summary: Student-led club promoting and preserving traditional Vietnamese art
+summary: I founded Viet Art Legacy to conserve the most beautiful values of Vietnamese folk paintings and to bridge the gap between folk art and today's new population. I completed training workshops on the process and techniques of creating Đông Hồ paintings in Đông Hồ Village, Bac Ninh. I successfully marketed and sold more than 50 Đông Hồ paintings at the “Pont de Long Bien” Fair gaining 15 million VND and online-sold self-designed patterns of Đông Hồ and Truc Chi paintings to promote the distinctive features of traditional Vietnamese art, generating 22 million VND in revenue.
 
 tags:
 - Leadership
@@ -25,7 +25,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-I founded Viet Art Legacy to conserve the most beautiful values of Vietnamese folk paintings and to bridge the gap between folk art and today's new population. I completed training workshops on the process and techniques of creating Đông Hồ paintings in Đông Hồ Village, Bac Ninh. Besides, I successfully marketed and sold more than 50 Đông Hồ paintings at the “Pont de Long Bien” Fair gaining 15 million VND and online-sold self-designed patterns of Đông Hồ and Truc Chi paintings to promote the distinctive features of traditional Vietnamese art, generating 22 million VND in revenue
+I founded Viet Art Legacy to conserve the most beautiful values of Vietnamese folk paintings and to bridge the gap between folk art and today's new population. I completed training workshops on the process and techniques of creating Đông Hồ paintings in Đông Hồ Village, Bac Ninh. I successfully marketed and sold more than 50 Đông Hồ paintings at the “Pont de Long Bien” Fair gaining 15 million VND and online-sold self-designed patterns of Đông Hồ and Truc Chi paintings to promote the distinctive features of traditional Vietnamese art, generating 22 million VND in revenue.
 
 1. VietArt - Bac Ninh
 ![screen reader text](vietart_bacninh.jpg "")
