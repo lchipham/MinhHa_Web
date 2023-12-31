@@ -19,6 +19,7 @@ summary: I founded Viet Art Legacy to conserve the most beautiful values of Viet
 
 tags:
 - Leadership
+
 title: President - Viet Art Legacy
 url_code: ""
 url_pdf: ""
