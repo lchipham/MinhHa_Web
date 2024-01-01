@@ -20,12 +20,12 @@ image:
 links:
 - icon: landmark
   icon_pack: fa
-  name: WSC
-  url: https://www.scholarscup.org
+  name: Youth Union
+  url: https://en.wikipedia.org/wiki/Ho_Chi_Minh_Communist_Youth_Union
 - icon: award
   icon_pack: fa
   name: Certificate
-  url: https://drive.google.com/file/d/1KBrIh6yTTX2eEp7pRpUeyl8i21jtMQCj/view?usp=sharing
+  url: https://drive.google.com/file/d/1iUerMyMyiQ4oPzRhSyb9N6-03MXJJQpr/view?usp=sharing
 
 summary: Ho Chi Minh Communist Youth Union (the Union) is the largest social-political organisation of Vietnamese youth.
 
@@ -44,8 +44,14 @@ url_source: ""
 url_video: ""
 ---
 
+![screen reader text](certificate.jpg "")
+
 Organization: Executive Committee of the Ho Chi Minh Communist Youth Union - Cau Giay District
 
 Commendation: Comrade Pham Minh Ha, recognized as an outstanding member of the Executive Committee of the Youth Union at Hanoi High School for the Gifted - Amsterdam
 
 Achievement: Demonstrated exceptional dedication to Youth Union activities and the youth movement within the Cau Giay District School Block during the academic year 2022-2023.
+
+![screen reader text](ceremony.jpg "")
+![screen reader text](panel.jpg "")
+![screen reader text](vote.jpg "")
