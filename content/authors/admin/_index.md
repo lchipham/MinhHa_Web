@@ -37,4 +37,4 @@ Welcome to my personal creative space, where I record my passion projects and hi
 
 {{< icon name="code" pack="fas" >}}  Intended college majors: Economics, Data Science
 
-{{< icon name="download" pack="fas" >}}  Download my {{< staticref "https://www.canva.com/design/DAFyLccJNG8/ePMxWbFfisT_hA_Ghdl0pg/view?utm_content=DAFyLccJNG8&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  Download my {{< staticref "https://drive.google.com/file/d/1-9UHXybe3op0IxNnWooxMYaFE8oeVLyd/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
